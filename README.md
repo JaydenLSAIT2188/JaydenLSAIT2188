@@ -1,0 +1,4 @@
+- 👋 Hello everyone, for those reading my name is Jayden
+- 👀 I’m interested in programming mainly within games and music
+- 🌱 I’m currently learning Software Development
+- 📫 How to reach me jayden.liwanag@edu.sait.ca or on MS teams
